@@ -19,8 +19,8 @@ This project is a version tracking system used to peridocially check for any upd
 To get started, clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/<username>/<repository>.git
-cd <repository>
+git clone https://github.com/d2itechnology/opesourcepackages.git
+cd opesourcepackages/react-version-tracker/version-check-app
 npm install
 ```
 
